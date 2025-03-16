@@ -1,0 +1,7 @@
+Docwriter/
+linuxflask/
+linuxvenv/
+__pycache__/
+.git/
+.gitignore
+.docignore
